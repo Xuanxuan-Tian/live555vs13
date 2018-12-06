@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BasicUsageEnvironment", "BasicUsageEnvironment\BasicUsageEnvironment.vcxproj", "{61D0CFAB-64F0-404E-83EF-BEBEF89E9036}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UsageEnvironment", "UsageEnvironment\UsageEnvironment.vcxproj", "{37D45879-A673-420C-882D-C7BB9F045111}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "groupsock", "groupsock\groupsock.vcxproj", "{25618176-7F5C-46B5-B10D-4E7DDDEECB06}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "liveMedia", "liveMedia\liveMedia.vcxproj", "{AC710B1D-FDDA-4C0B-8565-BFEDE07F54FA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mediaServer", "mediaServer\mediaServer.vcxproj", "{20471DA3-CDB4-4985-B2D6-544BB0E254B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D0CFAB-64F0-404E-83EF-BEBEF89E9036}.Debug|Win32.ActiveCfg = Debug|Win32
+		{61D0CFAB-64F0-404E-83EF-BEBEF89E9036}.Debug|Win32.Build.0 = Debug|Win32
+		{61D0CFAB-64F0-404E-83EF-BEBEF89E9036}.Release|Win32.ActiveCfg = Release|Win32
+		{61D0CFAB-64F0-404E-83EF-BEBEF89E9036}.Release|Win32.Build.0 = Release|Win32
+		{37D45879-A673-420C-882D-C7BB9F045111}.Debug|Win32.ActiveCfg = Debug|Win32
+		{37D45879-A673-420C-882D-C7BB9F045111}.Debug|Win32.Build.0 = Debug|Win32
+		{37D45879-A673-420C-882D-C7BB9F045111}.Release|Win32.ActiveCfg = Release|Win32
+		{37D45879-A673-420C-882D-C7BB9F045111}.Release|Win32.Build.0 = Release|Win32
+		{25618176-7F5C-46B5-B10D-4E7DDDEECB06}.Debug|Win32.ActiveCfg = Debug|Win32
+		{25618176-7F5C-46B5-B10D-4E7DDDEECB06}.Debug|Win32.Build.0 = Debug|Win32
+		{25618176-7F5C-46B5-B10D-4E7DDDEECB06}.Release|Win32.ActiveCfg = Release|Win32
+		{25618176-7F5C-46B5-B10D-4E7DDDEECB06}.Release|Win32.Build.0 = Release|Win32
+		{AC710B1D-FDDA-4C0B-8565-BFEDE07F54FA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AC710B1D-FDDA-4C0B-8565-BFEDE07F54FA}.Debug|Win32.Build.0 = Debug|Win32
+		{AC710B1D-FDDA-4C0B-8565-BFEDE07F54FA}.Release|Win32.ActiveCfg = Release|Win32
+		{AC710B1D-FDDA-4C0B-8565-BFEDE07F54FA}.Release|Win32.Build.0 = Release|Win32
+		{20471DA3-CDB4-4985-B2D6-544BB0E254B9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{20471DA3-CDB4-4985-B2D6-544BB0E254B9}.Debug|Win32.Build.0 = Debug|Win32
+		{20471DA3-CDB4-4985-B2D6-544BB0E254B9}.Release|Win32.ActiveCfg = Release|Win32
+		{20471DA3-CDB4-4985-B2D6-544BB0E254B9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
